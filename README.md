@@ -14,7 +14,7 @@ This library provides a collection of pre-defined graphs for processing structur
 1. Clone the repository and move to the compgraph directory:
 
    ```bash
-   git clone https://gitlab.manytask.org/python/students-fall-2024/perkyfever
+   git clone https://github.com/perkyfever/comp-graph.git
    cd 09.2.HW2/tasks/compgraph
    ```
 2. Install the `compgraph` package:
